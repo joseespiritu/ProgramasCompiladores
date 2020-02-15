@@ -1,0 +1,1 @@
+(true And True) OR (not TRUE) or true
